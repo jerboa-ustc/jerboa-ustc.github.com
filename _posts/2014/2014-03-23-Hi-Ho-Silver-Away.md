@@ -5,7 +5,6 @@ categories:
 - diary
 tags:
 - diary
-- essay
 ---
 
 ## 缘由
