@@ -1,5 +1,0 @@
-markdown: redcarpet
-permalink: /:year/:month/:title/
-author: Jerboa
-pygments: true
-paginate: 24
