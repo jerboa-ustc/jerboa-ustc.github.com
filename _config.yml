@@ -5,19 +5,19 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name:                                                # 博客名称
-    description:                                         # 博客描述
-    title:                                               # 网页标题
-    url:                                                 # 博客地址
+    name: Semper Fidelis
+    description: 不再迷茫的Jerboa
+    title: 马楠的博客
+    url: jerboa-ustc.github.io
     duoshuo:                                             # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name:                                                # 作者名称
-    email:                                               # 邮箱地址
-    weibo:                                               # 微博地址
-    github:                                              # GitHub地址
+    name: 马楠
+    email: a.jerboa@gmail.com
+    weibo: http://weibo.com/u/2583346597
+    github: https://github.com/jerboa-ustc
     logo:                                                # logo地址
     douban:
-        name:                                            # 豆瓣地址名称
+        name: http://www.douban.com/people/78294855/
         key:                                             # 豆瓣API Key
