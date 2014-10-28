@@ -6,7 +6,7 @@ paginate_path: page/:num
 
 blog:
     name: Semper Fidelis
-    description: 不再迷茫的Jerboa
+    description: Jerboa快乐每一天
     title: 马楠的博客
     url: jerboa-ustc.github.io
     duoshuo:                                             # 多说ID
