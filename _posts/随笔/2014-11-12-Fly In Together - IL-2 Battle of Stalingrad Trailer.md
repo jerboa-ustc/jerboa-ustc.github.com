@@ -3,7 +3,7 @@ layout: post
 title: Fly In Together - IL-2 Battle of Stalingrad Trailer - (Fan Made)
 category: 模拟飞行
 duoshuo: true
-date: 2014-11-04
+date: 2014-11-12
 ---
 
 > 在白云深处蓝天外，
@@ -22,9 +22,9 @@ date: 2014-11-04
 > 
 > 我反复思考，反复比较，
 > 
-> 今后的日子似乎变得渺小
+> 今后的日子似乎变得渺小，
 > 
-> 青春的气息在死亡之间缭绕
+> 青春的气息在死亡之间缭绕。
 
 ### 漫长的等待，终于迎来了全新的IL2。
 
