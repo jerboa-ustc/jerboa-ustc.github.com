@@ -29,4 +29,4 @@ date: 2014-11-12
 ### 漫长的等待，终于迎来了全新的IL2。
 
 
-<embed src="http://player.youku.com/player.php/sid/XODI0Njc4NTI4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
+<embed src="http://player.youku.com/player.php/sid/XODI0Njc4NTI4/v.swf" allowFullScreen="true" quality="high" width="854" height="480" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
