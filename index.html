@@ -3,6 +3,9 @@ layout: blog
 index: true
 ---
 
+<div>
+{% include search.html %}
+</div>
 {% for post in paginator.posts %}
 <div class="posts">
   <section class="post">
@@ -13,7 +16,9 @@ index: true
         {{ post.date | date: "%Y年%m月%d日" }}
         <i class="space"></i>
         <i class="fa fa-tags"></i>
-        <a class="post-category" href="/page/category.html#{{ post.categories }}">{{ post.categories }}</a>
+        {% for category in post.categories %}
+        <a class="post-category" href="/page/category.html#{{ category }}">{{ category }}</a>
+        {% endfor %}
       </p>
     </header>
     <div class="post-main">
