@@ -39,12 +39,14 @@ $(document).ready(function() {
             $(this).attr('rel', i)
         })
     });
-    $('.fancybox').fancybox({
+    try {
+	$('.fancybox').fancybox({
         padding: 7,
         openEffect: 'fade',
         closeEffect: 'fade',
         scrolling: 'no',
-    });
+    });}
+	catch (e){}
     // Pictures
     var images = ["/res/img/bg/01.jpg", "/res/img/bg/02.jpg", "/res/img/bg/03.jpg"];
     images.sort(function() {
