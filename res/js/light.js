@@ -44,7 +44,7 @@ $(document).ready(function() {
         openEffect: 'fade',
         closeEffect: 'fade',
         scrolling: 'no',
-    }){};
+    });
     // Pictures
     var images = ["/res/img/bg/01.jpg", "/res/img/bg/02.jpg", "/res/img/bg/03.jpg"];
     images.sort(function() {
