@@ -39,24 +39,20 @@ $(document).ready(function() {
             $(this).attr('rel', i)
         })
     });
-    try {
-	$('.fancybox').fancybox({
+    $('.fancybox').fancybox({
         padding: 7,
         openEffect: 'fade',
         closeEffect: 'fade',
         scrolling: 'no',
-    });}
-	catch (e){}
+    });
     // Pictures
     var images = ["/res/img/bg/01.jpg", "/res/img/bg/02.jpg", "/res/img/bg/03.jpg"];
     images.sort(function() {
         return Math.random() > 0.5 ? -1 : 1
     });
-    try {
-	$(".sidebar").backstretch(images, {
+    $(".sidebar").backstretch(images, {
         fade: 1500,
         duration: 15000,
-    })}
-	catch (e){}
+    })
 });
 
