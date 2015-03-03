@@ -10,7 +10,7 @@ title: 文章分类
 <div class="category-box">
   <ul>
 	<li class="category-box-sub">
-  	<a style="color: #6E6E6E" href="#">文章总数 <sup>{{site.posts.size}}</sup></a>
+  	<a style="color: #BDBDBD" href="#">文章总数 <sup>{{site.posts.size}}</sup></a>
   	</li>
     {% for item in (0..site.categories.size) %}{% unless forloop.last %}
     {% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
