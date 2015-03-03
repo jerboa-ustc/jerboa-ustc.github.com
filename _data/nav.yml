@@ -10,11 +10,14 @@
   icon:  fa fa-book
   title: 阅读
 
+<<<<<<< HEAD
 - href: /life/index.html
   icon: fa fa-eyedropper
   title: 轨迹
   newblank: true
 
+=======
+>>>>>>> quincy/master
 - href: /page/about.html
   icon: fa fa-paper-plane-o
   title: 关于
